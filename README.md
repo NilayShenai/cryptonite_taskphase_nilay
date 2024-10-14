@@ -14,8 +14,8 @@
 | File Globbing           | 6                   | 6               |
 | Practicing Piping       | 11                  | 11              |
 | Shell Variables         | 8                   | 8               |
-| Processes and Jobs      | 4                   | 9               |
-| Perceiving Permissions  | 4                   | 8               |
+| Processes and Jobs      | 9                   | 9               |
+| Perceiving Permissions  | 8                   | 8               |
 | Untangling Users        | 4                   | 4               |
 | Chaining Commands       | 4                   | 4               |
 | Pondering PATH          | 4                   | 4               |
