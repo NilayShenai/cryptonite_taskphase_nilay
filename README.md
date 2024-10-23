@@ -20,4 +20,4 @@
 | Chaining Commands       | 4                   | 4               |
 | Pondering PATH          | 4                   | 4               |
 
-**PicoCTF profile: https://play.picoctf.org/users/Nilayshenai
+**PicoCTF profile:** https://play.picoctf.org/users/Nilayshenai
