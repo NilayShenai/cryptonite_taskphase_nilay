@@ -1,5 +1,5 @@
 
-# README: Challenges Walkthrough
+# README: NITECTF
 
 ## Challenge 1: UART Data Analysis
 
